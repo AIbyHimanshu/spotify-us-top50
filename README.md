@@ -2,7 +2,7 @@
 
 > Deep analytics on US playlist chart dynamics for **Atlantic Recording Corporation**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-us-top50.streamlit.app/)
 
 ---
 
